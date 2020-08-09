@@ -304,11 +304,11 @@ diagrama de flujo y pseudocódigo que representen el algoritmo para
 determinar ese cobro..*/
 
 //solución:
-/*
+
 let cantidadDias = +prompt("Ingrese cantidad de días");
 let costoporDia = +prompt("Ingrese costo por días");
 
 Costototal =  cantidadDias * costoporDia;
 
 console.log(`ingrese cantidad de días = ${cantidadDias} + ingrese el costo por día= ${costoporDia} +  resultado ${Costototal}`); 
-*/
+
